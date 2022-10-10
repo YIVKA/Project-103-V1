@@ -1,0 +1,29 @@
+
+.body_background 
+{
+    background-position:center;
+    text-align: center;
+    background-size:cover;
+    background-color:lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+	background-color:white;
+}
+
+h2
+{
+	background-color:white;
+}
+
+h3
+{
+	background-color: white;
+}
+
+.head_text
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
